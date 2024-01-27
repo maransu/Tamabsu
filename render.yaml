@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: tamamu-poo
     env: docker
     plan: free
